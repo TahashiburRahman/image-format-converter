@@ -1,0 +1,6 @@
+{
+  "name": "LocalConvert",
+  "description": "Offline browser-based image converter and bulk resizer with zero cloud dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
